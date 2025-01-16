@@ -9,13 +9,13 @@ welcome to the course of Introduction to Scientific Programming within the PhD S
 The course will take place the week Jan. 27-31 2025 at the Med Campus in the room **SR53 (MC2.N.01.017)**.
 
 # 1. Course preparation
-We recommend that you bring your own laptop for the course, i.e., please prepare in advance as instzructed below.
+We recommend that you bring your own laptop for the course, i.e., please prepare in advance as instructed below.
 
 ## 1.1 Python
 Please install anaconda (v 3) on your laptop. You find the appropriate version for your OS following the link:  https://docs.anaconda.com/anaconda/install/
 
 ## 1.2 R
-Please install R and RStudio on your laptop. You find the instructions and links in the document **Introduction course_Installation_R_RStudio_Rpackages.pdf**.
+Please install R and RStudio on your laptop. You find the instructions and links in the document *Introduction course_Installation_R_RStudio_Rpackages.pdf*.
 
 
 
