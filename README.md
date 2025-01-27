@@ -17,7 +17,52 @@ Please install anaconda (v 3) on your laptop. You find the appropriate version f
 ## 1.2 R
 Please install R and RStudio on your laptop. You find the instructions and links in the document *Introduction course_Installation_R_RStudio_Rpackages.pdf*.
 
+## 1.3 Linux environment, bash and High performance computing (HPC)
 
+### 1.3.1 Installation and previous requirements
+We have prepared a virtual machine with Debian for the course to be used on the laptops of the Pc Pool. We will cover the following topics:
+
+### 1.3.2 Content
+
+- Introduction to Linux environment, distributions, permissions
+- Command-line basics
+- Vi editor
+- Environment variables, .bashrc file
+- Scripts and running scientific jobs
+- Visualization of data with gnuplot
+- SLURM
+
+### 1.3.3 Some useful links
+Slides: 
+
+VSC Tranining course: https://vsc.ac.at/training/2022/VSC-Linux-Oct/
+
+Spectrum data: https://medunigraz-my.sharepoint.com/:u:/g/personal/pedro_murcia_medunigraz_at/EXy8HwgP7-FKgOI7u6GoNkUBD4uf2oHq4rhlXFDraEFg_w?e=ZFQfjf
+
+Linux cheat sheet: https://cheatography.com/davechild/cheat-sheets/linux-command-line/ 
+
+vi cheat sheet: https://www2.seas.gwu.edu/~mems/ece215/reference/vi-cheatsheet.pdf 
+
+#### Some examples of bash scripts:
+
++ script.sh <br>
+#!/bin/bash <br>
+echo "foo bar" <br>
+mkdir myfolder <br>
+
++ loop.sh (using a numeric sequence) <br>
+#!/bin/bash <br>
+for i in {1..5} <br>
+do <br>
+echo $i <br>
+done <br>
+
++ loop2.sh (using a list of elements in test.dat) <br>
+#!/bin/bash <br> 
+for i in $(cat test.dat) <br>
+do <br>
+echo $i <br>
+do <br>
 
 # License
 
