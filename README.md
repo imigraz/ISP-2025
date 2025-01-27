@@ -31,6 +31,7 @@ We have prepared a virtual machine with Debian for the course to be used on the 
 - Scripts and running scientific jobs
 - Visualization of data with gnuplot
 - SLURM
+- Introduction to HPC MedBioNode
 
 ### 1.3.3 Some useful links
 Slides: 
