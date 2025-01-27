@@ -17,12 +17,14 @@ Please install anaconda (v 3) on your laptop. You find the appropriate version f
 ## 1.2 R
 Please install R and RStudio on your laptop. You find the instructions and links in the document *Introduction course_Installation_R_RStudio_Rpackages.pdf*.
 
-## 1.3 Linux environment, bash and High performance computing (HPC)
+# 2. Content
 
-### 1.3.1 Installation and previous requirements
+## 2.3 Linux environment, bash and High performance computing (HPC)
+
+### 2.3.1 Installation and previous requirements
 We have prepared a virtual machine with Debian for the course to be used on the laptops of the Pc Pool. We will cover the following topics:
 
-### 1.3.2 Content
+### 2.3.2 Content
 
 - Introduction to Linux environment, distributions, permissions
 - Command-line basics
@@ -33,7 +35,7 @@ We have prepared a virtual machine with Debian for the course to be used on the 
 - SLURM
 - Introduction to HPC MedBioNode
 
-### 1.3.3 Some useful links
+### 2.3.3 Some useful links
 Slides: 
 
 VSC Tranining course: https://vsc.ac.at/training/2022/VSC-Linux-Oct/
