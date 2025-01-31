@@ -4,7 +4,7 @@ Python Assignment
        1. Read the file "assignment_text.txt" and extract only numerical values (integers and floating-point numbers, if applicable) from each line.
         Store these numerical values in a list
 
-   ** Loops, Conditions, and Functions**
+   **Loops, Conditions, and Functions**
        2. Write a Python function that takes the list from Assignment 1 as input and finds the smallest even number in the list.
         The function should return:
             The value of the smallest even number
